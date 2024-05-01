@@ -1,0 +1,29 @@
+
+.comfortaa-nav {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.active {
+    font-weight: bolder;
+}
+
+.hero-text {
+    padding: 70px;
+    font-size: 50px;
+}
+.hero-subtext {
+    padding: 70px;
+    font-size: 20px;
+}
+.hero-img {
+    margin: 70px auto;
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.contact-us {
+    padding: 100px 50px
+}
