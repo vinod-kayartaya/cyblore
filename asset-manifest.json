@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cyblore/static/css/main.3f72976f.css",
-    "main.js": "/cyblore/static/js/main.af596327.js",
+    "main.js": "/cyblore/static/js/main.9206a7bb.js",
     "index.html": "/cyblore/index.html",
     "main.3f72976f.css.map": "/cyblore/static/css/main.3f72976f.css.map",
-    "main.af596327.js.map": "/cyblore/static/js/main.af596327.js.map"
+    "main.9206a7bb.js.map": "/cyblore/static/js/main.9206a7bb.js.map"
   },
   "entrypoints": [
     "static/css/main.3f72976f.css",
-    "static/js/main.af596327.js"
+    "static/js/main.9206a7bb.js"
   ]
 }
